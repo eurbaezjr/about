@@ -21,3 +21,5 @@ Click [Here](http://eurbaezjr.github.io/portfolio) to view the deployed applicat
 
 
 * Dependencies include [React.JS](https://reactjs.org/), [Axios](https://www.npmjs.com/package/axios), [Bootstrap](https://getbootstrap.com/), [Anime.Js](https://animejs.com), [Vertical-Timeline](https://www.npmjs.com/package/react-vertical-timeline-component)
+
+
